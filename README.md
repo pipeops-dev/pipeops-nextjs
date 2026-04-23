@@ -1,4 +1,4 @@
-# PipeOps ASP.NET Core Starterkit 
+# Nextjs Boilerplate
 
 ### Get Started
 Firstly you need to clone the project 
@@ -6,6 +6,7 @@ Firstly you need to clone the project
 ```bash
 $ git clone <project>
 $ cd <project>
+$ npm install
 ```
 
 Start your local server
